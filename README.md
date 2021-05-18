@@ -3,7 +3,6 @@
 ### This is a brief exploratory analysis demonstrating some basic skills in python. 
 
 The following files are included: 
-- .pdf file containing the final output
 - .ipynb file containing the original python code
 - folder titled "data" containing original data
 
