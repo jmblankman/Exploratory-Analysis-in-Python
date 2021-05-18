@@ -6,5 +6,6 @@ The following files are included:
 - .ipynb file containing the original python code
 - "data" folder containing the original data
 
+
 Note 1: Sometimes the .ipynb file fails to load for unknown reasons. 
-Note 2: Must download data and remap filepaths on lines 4, 31, 45, and 60 to run locally.    
+</br> Note 2: Must download data and remap filepaths on lines 4, 31, 45, and 60 to run locally.    
